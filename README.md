@@ -1,3 +1,4 @@
 
 # tsilab1
-novi tekst
+novi tekst preko terminala
+novi tekst preko github-a
